@@ -1,4 +1,4 @@
 Myplan
 ======
 
-Everyday , Whta things I will do ,Here
+Everyday , What things I will do ,Here
